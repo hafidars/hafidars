@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00C9FF,50:8B5CF6,100:FF0080&text=HAFID%20REHMAN&fontSize=58&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00E5FF,35:2563EB,70:7C3AED,100:C4B5FD&text=HAFID%20REHMAN&fontSize=58&fontColor=F5F5F5&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Full+Stack+Developer;%3E+Cloud+%7C+AI+%7C+DevOps+Architect;%3E+Open+Source+Contributor;%3E+Turning+Ideas+into+Scalable+Systems;%3E+Always+Shipping%2C+Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+AI+Developer;%3E+Cloud+%7C+AI+%7C+DevOps+Architect;%3E+Open+Source+Contributor;%3E+Turning+Ideas+into+Scalable+Systems;%3E+Always+Shipping%2C+Always+Learning"/>
 
 <br>
 
