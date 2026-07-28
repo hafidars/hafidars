@@ -6,15 +6,13 @@
 
 <br>
 
-<a href="https://github.com/hafidars">
-<img src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=COMMITS&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Ahafidars&style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
-</a>
 <a href="https://github.com/hafidars?tab=repositories">
 <img src="https://img.shields.io/github/stars/hafidars?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/hafidars">
 <img src="https://img.shields.io/github/followers/hafidars?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366F1&labelColor=0D1117"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=hafidars&style=for-the-badge&color=0EA5E9&labelColor=0D1117&label=PROFILE+VIEWS"/>
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-F43F5E?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117"/>
 </a>
@@ -94,7 +92,7 @@ status:
 
 ## ✦ GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=e6edf3&ring_color=F43F5E"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=e6edf3&ring_color=F43F5E"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidars&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=e6edf3&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=hafidars&theme=transparent&hide_border=true&background=0D1117&stroke=38BDF8&ring=A855F7&fire=F43F5E&currStreakLabel=38BDF8&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3"/>
@@ -132,20 +130,20 @@ status:
 
 ## ✦ Let's Connect
 
-<a href="www.linkedin.com/in/hafidar">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="https://x.com/HafidRehman">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0D1117"/>
+<a href="https://twitter.com/your-x">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="https://www.instagram.com/hafid._rhmn_?igsh=YnR6MWhwa2F5cG9h">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0D1117"/>
+<a href="https://instagram.com/your-instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="hafidars8786@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/hafidars">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 </div>
