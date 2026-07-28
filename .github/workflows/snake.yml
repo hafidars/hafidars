@@ -19,9 +19,8 @@ jobs:
         with:
           github_user_name: hafidars
           outputs: |
-            outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF00FF&color_dots=%23161B22,%2300F5FF,%237C3AED,%23FF00FF,%23FFD700
-            dist/github-contribution-grid-snake.svg?color_snake=%2300E5FF&color_dots=%23EBEDF0,%239CCFFF,%2360A5FA,%237C3AED,%23C4B5FD
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
