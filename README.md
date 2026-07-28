@@ -1,5 +1,3 @@
-MY REPO LOOKS========================
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:22D3EE,50:4F46E5,75:8B5CF6,100:F43F5E&text=HAFID%20REHMAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18"/>
@@ -83,8 +81,9 @@ status:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=e6edf3&ring_color=F43F5E"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidars&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=e6edf3&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidars&layout=compact&theme=transparent&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=hafidars&theme=transparent&hide_border=true&background=0D1117&stroke=22D3EE&ring=8B5CF6&fire=F43F5E&currStreakLabel=22D3EE&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3"/>
 
