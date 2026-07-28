@@ -1,16 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:22D3EE,50:4F46E5,75:8B5CF6,100:F43F5E&text=HAFID%20REHMAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,20:0EA5E9,45:6366F1,70:A855F7,100:F43F5E&text=HAFID%20REHMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20AI%20Architect&descAlignY=58&descSize=18&descColor=E0E7FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Full+Stack+Developer;%3E+Cloud+%7C+AI+%7C+DevOps+Architect;%3E+Open+Source+Contributor;%3E+Turning+Ideas+into+Scalable+Systems;%3E+Always+Shipping%2C+Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Cloud+%7C+AI+%7C+DevOps+Architect;Open+Source+Contributor;Turning+Ideas+into+Scalable+Systems;Always+Shipping%2C+Always+Learning"/>
 
 <br>
 
 <a href="https://github.com/hafidars">
-<img src="https://img.shields.io/github/followers/hafidars?style=for-the-badge&logo=github&label=FOLLOWERS&color=22D3EE&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=COMMITS&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Ahafidars&style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/hafidars?tab=repositories">
-<img src="https://img.shields.io/github/stars/hafidars?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=8B5CF6&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/hafidars?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=A855F7&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/hafidars">
+<img src="https://img.shields.io/github/followers/hafidars?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366F1&labelColor=0D1117"/>
 </a>
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-F43F5E?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117"/>
@@ -20,7 +23,11 @@
 
 <br>
 
-## `01` // ABOUT_THE_ARCHITECT
+<div align="center">
+
+## ✦ About Me
+
+</div>
 
 <table>
 <tr>
@@ -39,12 +46,14 @@ status:
   mode: "shipping"
 ```
 
-**Current Frequency**
-- `🚀` Architecting scalable, production-grade web apps
-- `🧠` Deep-diving into AI-powered software engineering
-- `🏗️` Obsessed with clean, maintainable architecture
-- `⚙️` Prototyping with emerging tools & frameworks
-- `📈` Compounding skills, one project at a time
+> *"Code. Learn. Build. Repeat."*
+
+**Current Focus**
+- 🚀 Architecting scalable, production-grade web apps
+- 🧠 Deep-diving into AI-powered software engineering
+- 🏗️ Obsessed with clean, maintainable architecture
+- ⚡ Prototyping with emerging tools & frameworks
+- 📈 Compounding skills, one project at a time
 
 </td>
 <td width="42%" align="center">
@@ -57,17 +66,21 @@ status:
 
 <br>
 
-## `02` // TECH_STACK
-
 <div align="center">
+
+## ✦ Tech Arsenal
 
 **Frontend**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,js,ts&theme=dark"/>
 
+<br><br>
+
 **Backend & Data**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,mongodb,mysql,firebase&theme=dark"/>
+
+<br><br>
 
 **Cloud, DevOps & Tools**
 <br>
@@ -77,24 +90,24 @@ status:
 
 <br>
 
-## `03` // SYSTEM_METRICS
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=e6edf3&ring_color=F43F5E"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidars&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=e6edf3&langs_count=8"/>
+## ✦ GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=hafidars&theme=transparent&hide_border=true&background=0D1117&stroke=22D3EE&ring=8B5CF6&fire=F43F5E&currStreakLabel=22D3EE&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidars&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=e6edf3&ring_color=F43F5E"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidars&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=e6edf3&langs_count=8"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hafidars&bg_color=0D1117&hide_border=true&color=22D3EE&line=8B5CF6&point=F43F5E&area=true&area_color=4F46E5"/>
+<img src="https://streak-stats.demolab.com?user=hafidars&theme=transparent&hide_border=true&background=0D1117&stroke=38BDF8&ring=A855F7&fire=F43F5E&currStreakLabel=38BDF8&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hafidars&bg_color=0D1117&hide_border=true&color=38BDF8&line=A855F7&point=F43F5E&area=true&area_color=6366F1"/>
 
 </div>
 
 <br>
 
-## `04` // ACHIEVEMENTS_UNLOCKED
-
 <div align="center">
+
+## ✦ Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=hafidars&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
 
@@ -102,9 +115,9 @@ status:
 
 <br>
 
-## `05` // CONTRIBUTION_MATRIX
-
 <div align="center">
+
+## ✦ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafidars/hafidars/output/github-contribution-grid-snake-dark.svg">
@@ -115,24 +128,24 @@ status:
 
 <br>
 
-## `06` // ESTABLISH_CONNECTION
-
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+## ✦ Let's Connect
+
+<a href="www.linkedin.com/in/hafidar">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117"/>
 </a>
-<a href="https://twitter.com/your-x">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
+<a href="https://x.com/HafidRehman">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0D1117"/>
 </a>
-<a href="https://instagram.com/your-instagram">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+<a href="https://www.instagram.com/hafid._rhmn_?igsh=YnR6MWhwa2F5cG9h">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0D1117"/>
 </a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+<a href="hafidars8786@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/hafidars">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117"/>
 </a>
 
 </div>
@@ -141,8 +154,8 @@ status:
 
 <div align="center">
 
-### `> "Code. Learn. Build. Repeat."_`
+### *"Technology is best when it brings people together."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F43F5E,50:4F46E5,100:0F172A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F43F5E,35:A855F7,70:6366F1,100:0F172A"/>
 
 </div>
