@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: hafidars
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300E5FF&color_dots=%23161B22,%231E3A8A,%232563EB,%237C3AED,%23C4B5FD
+            outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF00FF&color_dots=%23161B22,%2300F5FF,%237C3AED,%23FF00FF,%23FFD700
             dist/github-contribution-grid-snake.svg?color_snake=%2300E5FF&color_dots=%23EBEDF0,%239CCFFF,%2360A5FA,%237C3AED,%23C4B5FD
 
       - name: push to output branch
