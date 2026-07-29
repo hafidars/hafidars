@@ -12,7 +12,7 @@
 <a href="https://github.com/hafidars?tab=repositories">
 <img src="https://img.shields.io/github/stars/hafidars?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=8B5CF6&labelColor=0D1117"/>
 </a>
-<a href="hafidars8786@gmail.com">
+<a href="mailto:hafidars8786@gmail.com">
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-F43F5E?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117"/>
 </a>
 
